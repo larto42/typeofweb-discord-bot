@@ -10,6 +10,7 @@ import mdn from './mdn';
 import mongodb from './mongodb';
 import mydevil from './mydevil';
 import npm from './npm';
+import odpowiedz from './odpowiedz';
 import prune from './prune';
 import regulamin from './regulamin';
 import server from './server';
@@ -29,6 +30,7 @@ const allCommands = {
   mongodb,
   mydevil,
   npm,
+  odpowiedz,
   prune,
   regulamin,
   server,
